@@ -9,3 +9,7 @@ Here are some very fun resource to learn flexbox:
 http://flexboxfroggy.com/
 
 http://www.flexboxdefense.com/
+
+See this in action on github pages:
+
+https://lmikulin.github.io/flexbox-test/
