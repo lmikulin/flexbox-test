@@ -4,5 +4,7 @@ This tutorial explains using flexbox to do this (if you have a pro membership):
 https://egghead.io/lessons/css-demystifying-alignment-in-flexbox-children
 
 Here are some very fun resource to learn flexbox:
+
 http://flexboxfroggy.com/
+
 http://www.flexboxdefense.com/
